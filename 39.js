@@ -7,8 +7,7 @@ function twiceAsOld(dadYearsOld, sonYearsOld) {
     else
       {      
         ageNew = sonYearsOld * 2 - dadYearsOld 
-        return ageNew 
-        
+        return ageNew        
         
       }
   }
